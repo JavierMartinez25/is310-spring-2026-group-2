@@ -72,10 +72,8 @@ Each group member will develop an individual dataset related to the broader gami
 
 ### Javier Martinez
 - **Proposed Dataset:** Popular Video Games 1980–2023 (Kaggle)
-Dataset Source:
-https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023 
-File Used:
-games.csv
+- **Dataset Source:** https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023 
+- **File Used:** games.csv
 - **Description:**  
 This dataset contains information about popular video games released between 1980 and 2023. It includes details such as game title, release year, platform, and genre. Because the data spans multiple decades and covers a wide variety of game types, it allows for comparisons across time and between different genres. The dataset provides a broad overview of how video games have been categorized and released, making it useful for identifying long-term patterns in game design and genre development.
 - **Relation to Group Theme:**  
